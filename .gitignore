@@ -4,3 +4,5 @@ __pycache__/
 *.json
 .env
 *.log
+ffmpeg.tar.xz
+ffmpeg-*-amd64-static/
