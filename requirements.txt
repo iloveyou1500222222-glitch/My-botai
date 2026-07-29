@@ -1,6 +1,5 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
-pytgcalls==4.1.0
 yt-dlp==2023.12.30
 requests==2.31.0
 cryptography==41.0.7
