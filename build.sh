@@ -8,5 +8,5 @@ mv ffmpeg-*-amd64-static/ffprobe /usr/local/bin/ffprobe
 chmod +x /usr/local/bin/ffmpeg
 chmod +x /usr/local/bin/ffprobe
 
-# Install Python dependencies
-pip install -r requirements.txt
+# Install dependencies with specific Pillow version
+pip install --no-cache-dir -r requirements.txt
